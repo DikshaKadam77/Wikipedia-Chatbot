@@ -1,6 +1,7 @@
-Wikipedia Chatbot
+WIKIPEDIA CHATBOT 
 
-A desktop GUI application build using PyQt5 that lets you search wikipedia and get article summarised instantly.
+A simple GUI based chatbot that fetches and summarizes information from wikipedia using the wikipedia Python module. Built with PyQt5, this app provides a clean and interactive interface for users to query topics directly from Wikipedia.
 
+FEATURES
 
 
