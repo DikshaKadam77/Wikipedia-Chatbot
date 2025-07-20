@@ -15,12 +15,15 @@ Handles disambiguation and errors gracefully.
 TECH STACK
 
 Python 3.x
+
 PyQt5
+
 wikipedia
 
 KNOWN ISSUE
 
 Some ambiguous terms may trigger disambiguation errors.
+
 Requires internet connection to fetch data.
 
 
